@@ -1,1 +1,2 @@
 Creating text2.txt file is sucessfully created.
+This is my text2.txt file only.
